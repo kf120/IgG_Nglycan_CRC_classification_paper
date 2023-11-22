@@ -8,3 +8,6 @@ This repository contains the source code to reproduce the results in the scienti
 - **data/**: Here you'll find the dataset used in our analysis.
 - **results/**: Contains Excel sheets with detailed results of our experiments.
 - **models/**: Trained machine learning models are stored in this folder.
+
+## Contact
+Konstantinos Flevaris (k.flevaris21@imperial.ac.uk)
